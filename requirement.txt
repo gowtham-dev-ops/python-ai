@@ -1,0 +1,13 @@
+Add model; colorization_release_v2.caffemodel 
+From the link - https://bit.ly/3OUvPZv
+
+python packages; install :- cv2 - opencv,numpy,argparse,os
+
+
+Run command on terminal-> !python colorize.py -i images/rose.jpg
+                       ->  python colorize.py -i images/rose.jpg 
+                                        (OR)
+                       -> !python colorize.py --image images/rose.jpg
+                       ->  python colorize.py --image images/rose.jpg 
+
+     
